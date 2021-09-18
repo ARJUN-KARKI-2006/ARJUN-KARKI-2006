@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... C, C++ and Python
 - 💞️ I’m looking to collaborate on ... well anything(I need help)
 - 📫 How to reach me ... mabe later, not now
+- I am certainly very confused
 
 <!---
 ARJUN-KARKI-2006/ARJUN-KARKI-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
