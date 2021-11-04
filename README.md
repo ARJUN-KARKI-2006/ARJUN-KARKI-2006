@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARJUN-KARKI-2006
 - 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... C, C++ and Python
+- 🌱 I’m currently learning ... C, C++ and Python and ```BASIC```
 - 💞️ I’m looking to collaborate on ... well anything(I need help)
-- 📫 How to reach me ... mabe later, not now
+- 📫 How to reach me ... maybe later, not now
 - I am certainly very confused
 
 <!---
